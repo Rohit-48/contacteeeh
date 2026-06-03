@@ -2,7 +2,7 @@
 
 A Next.js project featuring a highly interactive and animated email address component. Hovering over contact icons highlights specific segments of the email address (like the name, domain, or extension) while dynamically repositioning an animated dashed box.
 
-<video src="https://github.com/Rohit-48/contacteeeh/raw/main/public/demo.mp4" controls="controls" muted="muted" width="100%"></video>
+<video src="./public/demo.mp4" controls="controls" muted="muted" width="100%"></video>
 
 ## Tech Stack
 
